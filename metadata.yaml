@@ -1,0 +1,32 @@
+_repo: '----_25423'
+_version: 0.1.0
+alternative_title: Kuang ren ri ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lu, Xun
+    aliases:
+    - 魯迅
+    - Zhou, Shuren
+    birthdate: 1881
+    deathdate: 1936
+    gutenberg_agent_id: '26193'
+    url: http://www.gutenberg.org/2009/agents/26193
+    wikipedia: http://en.wikipedia.org/wiki/Lu_Xun
+description: ''
+gutenberg_issued: '2008-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25423'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diaries -- Fiction'
+- !lcsh 'Chinese fiction -- 20th century'
+- !lcc 'PL'
+title: 狂人日記
+url: http://www.gutenberg.org/ebooks/25423
